@@ -40,21 +40,11 @@ A fully interactive 3D basketball shooting game built with Three.js, featuring r
 
 *Dynamic lighting system cycling through Dawn → Day → Dusk → Night with adaptive sky colors*
 
-### 🏀 Basketball Movement and Controls
-![Basketball Movement](screen_shots/Movement.png)
-*Basketball positioned and moving with enhanced physics and rotation animations*
+### 🏀 Basketball Movement and Controls + ✨ Particle Effects in Action + 🎮 Enhanced User Interface + 📊 Scoring System and Statistics
 
-### ✨ Particle Effects in Action
-![Particle Effects](screen_shots/Particles.png)
-*Advanced particle system showing score explosions, rim sparks, and ball trails*
+![Complete Features Demo](src/screen_shtos/Screen_Recording.gif)
 
-### 🎮 Enhanced User Interface
-![Enhanced UI](screen_shots/UI_Demo.png)
-*Complete UI showing scores, statistics, shot predictor, and all control panels*
-
-### 📊 Scoring System and Statistics
-![Scoring System](screen_shots/Scoring.png)
-*Comprehensive scoring system with shot attempts, accuracy percentage, and real-time feedback*
+*For better quality you can access the file [Screen_Recording.mov](src/screen_shtos/Screen_Recording.mov)*
 
 ## 🎮 Complete Control System
 
