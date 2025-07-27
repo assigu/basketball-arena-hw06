@@ -32,7 +32,7 @@ A fully interactive 3D basketball shooting game built with Three.js, featuring r
 *Complete 3D basketball arena showing enhanced lighting, particle effects, and dynamic day/night cycle*
 
 ### 🎯 Interactive Shooting with Shot Predictor
-![Shot Predictor Demo](screen_shtos/Shot_predictor.png)
+![Shot Predictor Demo](screen_shtos/prediction.png)
 *Real-time trajectory visualization showing color-coded accuracy prediction*
 
 ### 🌙 Day/Night Cycle Demonstration
