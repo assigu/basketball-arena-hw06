@@ -44,7 +44,7 @@ A fully interactive 3D basketball shooting game built with Three.js, featuring r
 
 ![Complete Features Demo](src/screen_shtos/Screen_Recording.gif)
 
-*For better quality you can access the file [Screen_Recording.mov](src/screen_shtos/Screen_Recording.mov)*
+*For better quality you can access the file [Screen_Recording.mp4](src/screen_shtos/Screen_Recording.mp4)*
 
 ## 🎮 Complete Control System
 
